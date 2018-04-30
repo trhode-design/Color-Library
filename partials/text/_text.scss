@@ -1,0 +1,398 @@
+/* SASS Document */
+
+
+//***** CONTAINERS *****//
+
+/* Import Color Library */ 
+@import '../../modules/colors';
+
+/////   Reds    /////
+
+.txt-red {
+	color: $red;
+}
+.txt-radical-red {
+	color: $radical-red;
+}
+.txt-maroon {
+	color: $maroon;
+}
+.txt-wild-watermelon {
+	color: $wild-watermelon;
+}
+.txt-scarlet {
+	color: $scarlet;
+}
+.txt-brick-red {
+	color: $brick-red;
+}
+
+/////  Oranges  /////
+
+.txt-sunset-orange {
+	color: $sunset-orange;
+}
+.txt-bittersweet {
+	color: $bittersweet;
+}
+.txt-outrageous-orange {
+	color: $outrageous-orange;
+}
+.txt-vivid-tangerine {
+	color: $vivid-tangerine;
+}
+.txt-burnt-orange {
+	color: $burnt-orange;
+}
+.txt-red-orange {
+	color: $red-orange;
+}
+.txt-orange {
+	color: $orange;
+}
+.txt-mango-tango {
+	color: $mango-tango;
+}
+.txt-atomic-tangerine {
+	color: $atomic-tangerine;
+}
+.txt-macaroni-cheese {
+	color: $macaroni-cheese;
+}
+.txt-neon-carrot {
+	color: $neon-carrot;
+}
+
+/////  Yellows  /////
+
+.txt-yellow-orange {
+	color: $yellow-orange;
+}
+.txt-banana-mania {
+	color: $banana-mania;
+}
+.txt-sunglow {
+	color: $sunglow;
+}
+.txt-goldenrod {
+	color: $goldenrod;
+}
+.txt-dandelion {
+	color: $dandelion;
+}
+.txt-yellow {
+	color: $yellow;
+}
+.txt-laser-lemon {
+	color: $laser-lemon;
+}
+.txt-unmellow-yellow {
+	color: $unmellow-yellow;
+}
+.txt-canary {
+	color: $canary;
+}
+
+/////  Greens   /////
+
+.txt-green-yellow {
+	color: $green-yellow;
+}
+.txt-spring-green {
+	color: $spring-green;
+}
+.txt-olive-green {
+	color: $olive-green;
+}
+.txt-yellow-green {
+	color: $yellow-green;
+}
+.txt-inchworm {
+	color: $inchworm;
+}
+.txt-asparagus {
+	color: $asparagus;
+}
+.txt-granny-smith-apple {
+	color: $granny-smith-apple;
+}
+.txt-electric-lime {
+	color: $electric-lime;
+}
+.txt-screamin-green {
+	color: $screamin-green;
+}
+.txt-fern {
+	color: $fern;
+}
+.txt-forest-green {
+	color: $forest-green;
+}
+.txt-sea-green {
+	color: $sea-green;
+}
+.txt-green {
+	color: $green;
+}
+.txt-mountain-meadow {
+	color: $mountain-meadow;
+}
+.txt-shamrock {
+	color: $shamrock;
+}
+.txt-jungle-green {
+	color: $jungle-green;
+}
+.txt-caribbean-green {
+	color: $caribbean-green;
+}
+.txt-tropical-rain-forest {
+	color: $tropical-rain-forest;
+}
+.txt-pine-green {
+	color: $pine-green;
+}
+
+/////   Blues   /////
+
+.txt-robin-egg-blue {
+	color: $robin-egg-blue;
+}
+.txt- {
+	color: $aquamarine;
+}
+.txt-turquoise-blue {
+	color: $turquoise-blue;
+}
+.txt-sky-blue {
+	color: $sky-blue;
+}
+.txt-outer-space {
+	color: $outer-space;
+}
+.txt-blue-green {
+	color: $blue-green;
+}
+.txt-pacific-blue {
+	color: $pacific-blue;
+}
+.txt-cerulean {
+	color: $cerulean;
+}
+.txt-cornflower {
+	color: $cornflower;
+}
+.txt-midnight-blue {
+	color: $midnight-blue;
+}
+.txt-navy-blue {
+	color: $navy-blue;
+}
+.txt-denim {
+	color: $denim;
+}
+.txt-blue{
+	color: $blue;
+}
+.txt-periwinkle {
+	color: $periwinkle;
+}
+.txt-cadet-blue {
+	color: $cadet-blue;
+}
+.txt-indigo {
+	color: $indigo;
+}
+.txt-wild-blue-yonder {
+	color: $wild-blue-yonder;
+}
+.txt-manatee {
+	color: $manatee;
+}
+
+/////  Violets  /////
+
+.txt-ultramarine-blue {
+	color: $ultramarine-blue;
+}
+.txt-blue-violet {
+	color: $blue-violet;
+}
+.txt-purple-heart {
+	color: $purple-heart;
+}
+.txt-royal-purple {
+	color: $royal-purple;
+}
+.txt-purple-mountain-majesty {
+	color: $purple-mountain-majesty;
+}
+.txt-violet-purple {
+	color: $violet-purple;
+}
+.txt-wisteria {
+	color: $wisteria;
+}
+.txt-vivid-violet {
+	color: $vivid-violet;
+}
+.txt-fuchsia {
+	color: $fuchsia;
+}
+.txt-plum {
+	color: $plum;
+}
+
+/////   Pinks   /////
+
+.txt-shocking-pink {
+	color: $shocking-pink;
+}
+.txt-pink-flamingo {
+	color: $pink-flamingo;
+}
+.txt-hot-magenta {
+	color: $hot-magenta;
+}
+.txt-purple-pizzazz {
+	color: $purple-pizzazz;
+}
+.txt-razzle-dazzle-rose {
+	color: $razzle-dazzle-rose;
+}
+.txt-orchid {
+	color: $orchid;
+}
+.txt-red-violet {
+	color: $red-violet;
+}
+.txt-eggplant {
+	color: $eggplant;
+}
+.txt-cerise {
+	color: $cerise;
+}
+.txt-wild-strawberry {
+	color: $wild-strawberry;
+}
+.txt-magenta {
+	color: $magenta;
+}
+.txt-lavender {
+	color: $lavender;
+}
+.txt-cotton-candy {
+	color: $cotton-candy;
+}
+.txt-violet-red {
+	color: $violet-red;
+}
+.txt-carnation-pink {
+	color: $carnation-pink;
+}
+.txt-razzmatazz {
+	color: $razzmatazz;
+}
+.txt-pig-pink {
+	color: $pig-pink;
+}
+.txt-jazzberry-jam {
+	color: $jazzberry-jam;
+}
+.txt-blush {
+	color: $blush;
+}
+.txt-tickle-me-pink {
+	color: $tickle-me-pink;
+}
+.txt-salmon {
+	color: $salmon;
+}
+.txt-mauvelous {
+	color: $mauvelous;
+}
+
+/////  Browns   /////
+
+.txt-mahogany {
+	color: $mahogany;
+}
+.txt-melon {
+	color: $melon;
+}
+.txt-pink-sherbert {
+	color: $pink-sherbert;
+}
+.txt-burnt-sienna {
+	color: $burnt-sienna;
+}
+.txt-brown {
+	color: $brown;
+}
+.txt-sepia {
+	color: $sepia;
+}
+.txt-fuzzy-wuzzy {
+	color: $fuzzy-wuzzy;
+}
+.txt-chesnut {
+	color: $chesnut;
+}
+.txt-beaver {
+	color: $beaver;
+}
+.txt-tumbleweed {
+	color: $tumbleweed;
+}
+.txt-raw-sienna {
+	color: $raw-sienna ;
+}
+.txt-tan {
+	color: $tan;
+}
+.txt-desert-sand {
+	color: $desert-sand;
+}
+.txt-peach {
+	color: $peach;
+}
+.txt-apricot {
+	color: $apricot;
+}
+.txt-almond {
+	color: $almond;
+}
+.txt-shadow {
+	color: $shadow;
+}
+
+///// Neutrals  /////
+
+.txt-white {
+	color: $white;
+}
+.txt-timberwolf {
+	color: $timberwolf;
+}
+.txt-gray {
+	color: $gray;
+}
+.txt-black {
+	color: $black;
+}
+
+///// Metallics /////
+
+.txt-gold {
+	color: $gold;
+}
+.txt-silver {
+	color: $silver;
+}
+.txt-copper {
+	color: $copper;
+}
+.txt-antique-brass {
+	color: $antique-brass;
+}
+

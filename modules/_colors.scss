@@ -1,0 +1,154 @@
+/* SASS Document */
+
+
+//*** Variables ***//
+
+/////   Reds    /////
+
+$red: #ed0a3f;                         // Red
+$radical-red: #ff355e;                 // Radical Red
+$maroon: #c32148;                      // Maroon
+$wild-watermelon: #fd5b78;             // Wild Watermelon
+$scarlet: #fd0e35;                     // Scarlet
+$brick-red: #c62d42;                   // Brick Red
+
+/////  Oranges  /////
+
+$sunset-orange: #fe4c40;               // Sunset Orange
+$bittersweet: #fe6f5e;                 // Bittersweet
+$outrageous-orange: #ff6037;           // Outrageous Orange
+$vivid-tangerine: #ff9980;             // Vivid Tangerine
+$burnt-orange: #ff7f49;                // Burnt Orange
+$red-orange: #ff681f;                  // Red Orange
+$orange: #ff8833;                      // Orange
+$mango-tango: #e77200;                 // Mango Tango
+$atomic-tangerine: #ff9966;            // Atomic Tangerine
+$macaroni-cheese: #ffb97b;             // Macaroni & Cheese
+$neon-carrot: #ff9933;                 // Neon Carrot
+
+/////  Yellows  /////
+
+$yellow-orange: #ffae42;               // Yellow Orange
+$banana-mania: #fbe7b2;                // Banana Mania
+$sunglow: #ffCC33;                     // Sunglow
+$goldenrod: #fcd667;                   // Goldenrod
+$dandelion: #fed85d;                   // Dandelion
+$yellow: #fbe870;                      // Yellow
+$laser-lemon: #ffff66;                 // Laser Lemon
+$unmellow-yellow: #fdfc74;             // Unmellow Yellow
+$canary: #ffff99;                      // Canary
+
+/////  Greens   /////
+
+$green-yellow: #f1e788;                // Green Yellow
+$spring-green: #ecebbd;                // Spring Green
+$olive-green: #b5b35c;                 // Olive Green
+$yellow-green: #c5E17a;                // Yellow-Green
+$inchworm: #afe313;                    // Inchworm
+$asparagus: #7ba05b;                   // Asparagus
+$granny-smith-apple: #9de093;          // Granny Smith Apple
+$electric-lime: #ccff00;               // Electric Lime
+$screamin-green: #66ff66;              // Screamin' Green
+$fern: #63b76c;                        // Fern
+$forest-green: #5fa777;                // Forest Green
+$sea-green: #93dfb8;                   // Sea Green
+$green: #1cac78;                       // Green
+$mountain-meadow: #30ba8F;             // Mountain Meadow
+$shamrock: #45cea2;                    // Shamrock
+$jungle-green: #29ab87;                // Jungle Green
+$caribbean-green: #00cc99;             // Caribbean-Green
+$tropical-rain-forest: #00755e;        // Tropical Rain Forest
+$pine-green: #01786f;                  // Pine Green
+
+/////   Blues   /////
+
+$robin-egg-blue: #00cccc;              // Robin Egg Blue
+$aquamarine: #95e0e8;                  // Aquamarine
+$turquoise-blue: #6cdae7;              // Turquoise Blue
+$sky-blue: #76d7ea;                    // Sky Blue
+$outer-space: #2d383a;                 // Outer Space
+$blue-green: #0095b7;                  // Blue-Green
+$pacific-blue: #009dc4;                // Pacific Blue
+$cerulean: #02a4d3;                    // Cerulean
+$cornflower: #93ccea;                  // Cornflower
+$midnight-blue: #00468c;               // Midnight Blue
+$navy-blue: #0066cc;                   // Navy Blue
+$denim: #1560bd;                       // Denim
+$blue: #0066ff;                        // Blue
+$periwinkle: #c3cde6;                  // Periwinkle
+$cadet-blue: #a9b2c3;                  // Cadet Blue
+$indigo: #4f69c6;                      // Indigo
+$wild-blue-yonder: #7a89ba;            // Wild Blue Yonder
+$manatee: #8d90a1;                     // Manatee
+
+/////  Violets  /////
+
+$ultramarine-blue: #3f26bf;            // Ultramarine Blue
+$blue-violet: #6456b7;                 // Blue-Violet
+$purple-heart: #652dc1;                // Purple Heart
+$royal-purple: #6b3fa0;                // Royal Purple
+$purple-mountain-majesty: #9d81ba;     // Purple Mountain Majesty
+$violet-purple: #926eae;               // Violet (II)
+$wisteria: #c9a0dc;                    // Wisteria
+$vivid-violet: #803790;                // Vivid Violet
+$fuchsia: #c15fc1;                     // Fuchsia
+$plum: #8e3179;                        // Plum
+
+/////   Pinks   /////
+
+$shocking-pink: #ff6eff;               // Shocking Pink
+$pink-flamingo: #fc74fd;               // Pink Flamingo
+$hot-magenta: #ff00cc;                 // Hot Magenta
+$purple-pizzazz: #ff00cc;              // Purple Pizzazz
+$razzle-dazzle-rose: #ee34d2;          // Razzle Dazzle Rose
+$orchid: #e29cd2;                      // Orchid
+$red-violet: #bb3385;                  // Red Violet
+$eggplant: #614051;                    // Eggplant
+$cerise: #da3287;                      // Cerise
+$wild-strawberry: #ff3399;             // Wild Strawberry
+$magenta: #f653a6;                     // Magenta
+$lavender: #fbaed2;                    // Lavender
+$cotton-candy: #ffb7d5;                // Cotton Candy
+$violet-red: #f7468a;                  // Violet-Red
+$carnation-pink: #ffa6c9;              // Carnation Pink
+$razzmatazz: #e30b5c;                  // Razzmatazz
+$pig-pink: #fdd7e4;                    // Pig Pink
+$jazzberry-jam: #a50b5e;               // Jazzberry Jam
+$blush: #db5079;                       // Blush
+$tickle-me-pink: #fc80a5;              // Tickle Me Pink
+$salmon: #ff91a4;                      // Salmon
+$mauvelous: #f091a9;                   // Mauvelous
+
+/////  Browns   /////
+
+$mahogany: #cd4a4a;                    // Mahogany
+$melon: #febaad;                       // Melon
+$pink-sherbert: #f7a38e;               // Pink Sherbert
+$burnt-sienna: #e97451;                // Burnt Sienna
+$brown: #af593e;                       // Brown
+$sepia: #9e5b40;                       // Sepia
+$fuzzy-wuzzy: #CC6666;                 // Fuzzy Wuzzy
+$chesnut: #bc5d58;                     // Chesnut
+$beaver: #926f5b;                      // Beaver
+$tumbleweed: #dea681;                  // Tumbleweed
+$raw-sienna: #d27d46;                  // Raw Sienna
+$tan: #d99a6c;                         // Tan
+$desert-sand: #edc9af;                 // Desert Sand
+$peach: #ffcba4;                       // Peach
+$apricot: #fdd5b1;                     // Apricot
+$almond: #eed9c4;                      // Almond
+$shadow: #837050;                      // Shadow
+
+///// Neutrals  /////
+
+$white: #ffffff;                       // White
+$timberwolf: #d9d6cf;                  // Timberwolf
+$gray: #8b8680;                        // Gray
+$black: #000000;                       // Black
+
+///// Metallics /////
+
+$gold: #92926e;                        // Gold
+$silver: #c9c0bb;                      // Silver
+$copper: #da8a67;                      // Copper
+$antique-brass: #c88a65;               // Antique Brass

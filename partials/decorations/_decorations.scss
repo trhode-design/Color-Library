@@ -1,0 +1,397 @@
+/* SASS Document */
+
+
+//***** CONTAINERS *****//
+
+/* Import Color Library */ 
+@import '../../modules/colors';
+
+/////   Reds    /////
+
+.dcr-red {
+	text-decoration-color: $red;
+}
+.dcr-radical-red {
+	text-decoration-color: $radical-red;
+}
+.dcr-maroon {
+	text-decoration-color: $maroon;
+}
+.dcr-wild-watermelon {
+	text-decoration-color: $wild-watermelon;
+}
+.dcr-scarlet {
+	text-decoration-color: $scarlet;
+}
+.dcr-brick-red {
+	text-decoration-color: $brick-red;
+}
+
+/////  Oranges  /////
+
+.dcr-sunset-orange {
+	text-decoration-color: $sunset-orange;
+}
+.dcr-bittersweet {
+	text-decoration-color: $bittersweet;
+}
+.dcr-outrageous-orange {
+	text-decoration-color: $outrageous-orange;
+}
+.dcr-vivid-tangerine {
+	text-decoration-color: $vivid-tangerine;
+}
+.dcr-burnt-orange {
+	text-decoration-color: $burnt-orange;
+}
+.dcr-red-orange {
+	text-decoration-color: $red-orange;
+}
+.dcr-orange {
+	text-decoration-color: $orange;
+}
+.dcr-mango-tango {
+	text-decoration-color: $mango-tango;
+}
+.dcr-atomic-tangerine {
+	text-decoration-color: $atomic-tangerine;
+}
+.dcr-macaroni-cheese {
+	text-decoration-color: $macaroni-cheese;
+}
+.dcr-neon-carrot {
+	text-decoration-color: $neon-carrot;
+}
+
+/////  Yellows  /////
+
+.dcr-yellow-orange {
+	text-decoration-color: $yellow-orange;
+}
+.dcr-banana-mania {
+	text-decoration-color: $banana-mania;
+}
+.dcr-sunglow {
+	text-decoration-color: $sunglow;
+}
+.dcr-goldenrod {
+	text-decoration-color: $goldenrod;
+}
+.dcr-dandelion {
+	text-decoration-color: $dandelion;
+}
+.dcr-yellow {
+	text-decoration-color: $yellow;
+}
+.dcr-laser-lemon {
+	text-decoration-color: $laser-lemon;
+}
+.dcr-unmellow-yellow {
+	text-decoration-color: $unmellow-yellow;
+}
+.dcr-canary {
+	text-decoration-color: $canary;
+}
+
+/////  Greens   /////
+
+.dcr-green-yellow {
+	text-decoration-color: $green-yellow;
+}
+.dcr-spring-green {
+	text-decoration-color: $spring-green;
+}
+.dcr-olive-green {
+	text-decoration-color: $olive-green;
+}
+.dcr-yellow-green {
+	text-decoration-color: $yellow-green;
+}
+.dcr-inchworm {
+	text-decoration-color: $inchworm;
+}
+.dcr-asparagus {
+	text-decoration-color: $asparagus;
+}
+.dcr-granny-smith-apple {
+	text-decoration-color: $granny-smith-apple;
+}
+.dcr-electric-lime {
+	text-decoration-color: $electric-lime;
+}
+.dcr-screamin-green {
+	text-decoration-color: $screamin-green;
+}
+.dcr-fern {
+	text-decoration-color: $fern;
+}
+.dcr-forest-green {
+	text-decoration-color: $forest-green;
+}
+.dcr-sea-green {
+	text-decoration-color: $sea-green;
+}
+.dcr-green {
+	text-decoration-color: $green;
+}
+.dcr-mountain-meadow {
+	text-decoration-color: $mountain-meadow;
+}
+.dcr-shamrock {
+	text-decoration-color: $shamrock;
+}
+.dcr-jungle-green {
+	text-decoration-color: $jungle-green;
+}
+.dcr-caribbean-green {
+	text-decoration-color: $caribbean-green;
+}
+.dcr-tropical-rain-forest {
+	text-decoration-color: $tropical-rain-forest;
+}
+.dcr-pine-green {
+	text-decoration-color: $pine-green;
+}
+
+/////   Blues   /////
+
+.dcr-robin-egg-blue {
+	text-decoration-color: $robin-egg-blue;
+}
+.dcr- {
+	text-decoration-color: $aquamarine;
+}
+.dcr-turquoise-blue {
+	text-decoration-color: $turquoise-blue;
+}
+.dcr-sky-blue {
+	text-decoration-color: $sky-blue;
+}
+.dcr-outer-space {
+	text-decoration-color: $outer-space;
+}
+.dcr-blue-green {
+	text-decoration-color: $blue-green;
+}
+.dcr-pacific-blue {
+	text-decoration-color: $pacific-blue;
+}
+.dcr-cerulean {
+	text-decoration-color: $cerulean;
+}
+.dcr-cornflower {
+	text-decoration-color: $cornflower;
+}
+.dcr-midnight-blue {
+	text-decoration-color: $midnight-blue;
+}
+.dcr-navy-blue {
+	text-decoration-color: $navy-blue;
+}
+.dcr-denim {
+	text-decoration-color: $denim;
+}
+.dcr-blue{
+	text-decoration-color: $blue;
+}
+.dcr-periwinkle {
+	text-decoration-color: $periwinkle;
+}
+.dcr-cadet-blue {
+	text-decoration-color: $cadet-blue;
+}
+.dcr-indigo {
+	text-decoration-color: $indigo;
+}
+.dcr-wild-blue-yonder {
+	text-decoration-color: $wild-blue-yonder;
+}
+.dcr-manatee {
+	text-decoration-color: $manatee;
+}
+
+/////  Violets  /////
+
+.dcr-ultramarine-blue {
+	text-decoration-color: $ultramarine-blue;
+}
+.dcr-blue-violet {
+	text-decoration-color: $blue-violet;
+}
+.dcr-purple-heart {
+	text-decoration-color: $purple-heart;
+}
+.dcr-royal-purple {
+	text-decoration-color: $royal-purple;
+}
+.dcr-purple-mountain-majesty {
+	text-decoration-color: $purple-mountain-majesty;
+}
+.dcr-violet-purple {
+	text-decoration-color: $violet-purple;
+}
+.dcr-wisteria {
+	text-decoration-color: $wisteria;
+}
+.dcr-vivid-violet {
+	text-decoration-color: $vivid-violet;
+}
+.dcr-fuchsia {
+	text-decoration-color: $fuchsia;
+}
+.dcr-plum {
+	text-decoration-color: $plum;
+}
+
+/////   Pinks   /////
+
+.dcr-shocking-pink {
+	text-decoration-color: $shocking-pink;
+}
+.dcr-pink-flamingo {
+	text-decoration-color: $pink-flamingo;
+}
+.dcr-hot-magenta {
+	text-decoration-color: $hot-magenta;
+}
+.dcr-purple-pizzazz {
+	text-decoration-color: $purple-pizzazz;
+}
+.dcr-razzle-dazzle-rose {
+	text-decoration-color: $razzle-dazzle-rose;
+}
+.dcr-orchid {
+	text-decoration-color: $orchid;
+}
+.dcr-red-violet {
+	text-decoration-color: $red-violet;
+}
+.dcr-eggplant {
+	text-decoration-color: $eggplant;
+}
+.dcr-cerise {
+	text-decoration-color: $cerise;
+}
+.dcr-wild-strawberry {
+	text-decoration-color: $wild-strawberry;
+}
+.dcr-magenta {
+	text-decoration-color: $magenta;
+}
+.dcr-lavender {
+	text-decoration-color: $lavender;
+}
+.dcr-cotton-candy {
+	text-decoration-color: $cotton-candy;
+}
+.dcr-violet-red {
+	text-decoration-color: $violet-red;
+}
+.dcr-carnation-pink {
+	text-decoration-color: $carnation-pink;
+}
+.dcr-razzmatazz {
+	text-decoration-color: $razzmatazz;
+}
+.dcr-pig-pink {
+	text-decoration-color: $pig-pink;
+}
+.dcr-jazzberry-jam {
+	text-decoration-color: $jazzberry-jam;
+}
+.dcr-blush {
+	text-decoration-color: $blush;
+}
+.dcr-tickle-me-pink {
+	text-decoration-color: $tickle-me-pink;
+}
+.dcr-salmon {
+	text-decoration-color: $salmon;
+}
+.dcr-mauvelous {
+	text-decoration-color: $mauvelous;
+}
+
+/////  Browns   /////
+
+.dcr-mahogany {
+	text-decoration-color: $mahogany;
+}
+.dcr-melon {
+	text-decoration-color: $melon;
+}
+.dcr-pink-sherbert {
+	text-decoration-color: $pink-sherbert;
+}
+.dcr-burnt-sienna {
+	text-decoration-color: $burnt-sienna;
+}
+.dcr-brown {
+	text-decoration-color: $brown;
+}
+.dcr-sepia {
+	text-decoration-color: $sepia;
+}
+.dcr-fuzzy-wuzzy {
+	text-decoration-color: $fuzzy-wuzzy;
+}
+.dcr-chesnut {
+	text-decoration-color: $chesnut;
+}
+.dcr-beaver {
+	text-decoration-color: $beaver;
+}
+.dcr-tumbleweed {
+	text-decoration-color: $tumbleweed;
+}
+.dcr-raw-sienna {
+	text-decoration-color: $raw-sienna ;
+}
+.dcr-tan {
+	text-decoration-color: $tan;
+}
+.dcr-desert-sand {
+	text-decoration-color: $desert-sand;
+}
+.dcr-peach {
+	text-decoration-color: $peach;
+}
+.dcr-apricot {
+	text-decoration-color: $apricot;
+}
+.dcr-almond {
+	text-decoration-color: $almond;
+}
+.dcr-shadow {
+	text-decoration-color: $shadow;
+}
+
+///// Neutrals  /////
+
+.dcr-white {
+	text-decoration-color: $white;
+}
+.dcr-timberwolf {
+	text-decoration-color: $timberwolf;
+}
+.dcr-gray {
+	text-decoration-color: $gray;
+}
+.dcr-black {
+	text-decoration-color: $black;
+}
+
+///// Metallics /////
+
+.dcr-gold {
+	text-decoration-color: $gold;
+}
+.dcr-silver {
+	text-decoration-color: $silver;
+}
+.dcr-copper {
+	text-decoration-color: $copper;
+}
+.dcr-antique-brass {
+	text-decoration-color: $antique-brass;
+}

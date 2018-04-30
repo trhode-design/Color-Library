@@ -1,0 +1,397 @@
+/* SASS Document */
+
+
+//***** CONTAINERS *****//
+
+/* Import Color Library */ 
+@import '../../modules/colors';
+
+/////   Reds    /////
+
+.bdr-red {
+	border: 1pt solid $red;
+}
+.bdr-radical-red {
+	border: 1pt solid $radical-red;
+}
+.bdr-maroon {
+	border: 1pt solid $maroon;
+}
+.bdr-wild-watermelon {
+	border: 1pt solid $wild-watermelon;
+}
+.bdr-scarlet {
+	border: 1pt solid $scarlet;
+}
+.bdr-brick-red {
+	border: 1pt solid $brick-red;
+}
+
+/////  Oranges  /////
+
+.bdr-sunset-orange {
+	border: 1pt solid $sunset-orange;
+}
+.bdr-bittersweet {
+	border: 1pt solid $bittersweet;
+}
+.bdr-outrageous-orange {
+	border: 1pt solid $outrageous-orange;
+}
+.bdr-vivid-tangerine {
+	border: 1pt solid $vivid-tangerine;
+}
+.bdr-burnt-orange {
+	border: 1pt solid $burnt-orange;
+}
+.bdr-red-orange {
+	border: 1pt solid $red-orange;
+}
+.bdr-orange {
+	border: 1pt solid $orange;
+}
+.bdr-mango-tango {
+	border: 1pt solid $mango-tango;
+}
+.bdr-atomic-tangerine {
+	border: 1pt solid $atomic-tangerine;
+}
+.bdr-macaroni-cheese {
+	border: 1pt solid $macaroni-cheese;
+}
+.bdr-neon-carrot {
+	border: 1pt solid $neon-carrot;
+}
+
+/////  Yellows  /////
+
+.bdr-yellow-orange {
+	border: 1pt solid $yellow-orange;
+}
+.bdr-banana-mania {
+	border: 1pt solid $banana-mania;
+}
+.bdr-sunglow {
+	border: 1pt solid $sunglow;
+}
+.bdr-goldenrod {
+	border: 1pt solid $goldenrod;
+}
+.bdr-dandelion {
+	border: 1pt solid $dandelion;
+}
+.bdr-yellow {
+	border: 1pt solid $yellow;
+}
+.bdr-laser-lemon {
+	border: 1pt solid $laser-lemon;
+}
+.bdr-unmellow-yellow {
+	border: 1pt solid $unmellow-yellow;
+}
+.bdr-canary {
+	border: 1pt solid $canary;
+}
+
+/////  Greens   /////
+
+.bdr-green-yellow {
+	border: 1pt solid $green-yellow;
+}
+.bdr-spring-green {
+	border: 1pt solid $spring-green;
+}
+.bdr-olive-green {
+	border: 1pt solid $olive-green;
+}
+.bdr-yellow-green {
+	border: 1pt solid $yellow-green;
+}
+.bdr-inchworm {
+	border: 1pt solid $inchworm;
+}
+.bdr-asparagus {
+	border: 1pt solid $asparagus;
+}
+.bdr-granny-smith-apple {
+	border: 1pt solid $granny-smith-apple;
+}
+.bdr-electric-lime {
+	border: 1pt solid $electric-lime;
+}
+.bdr-screamin-green {
+	border: 1pt solid $screamin-green;
+}
+.bdr-fern {
+	border: 1pt solid $fern;
+}
+.bdr-forest-green {
+	border: 1pt solid $forest-green;
+}
+.bdr-sea-green {
+	border: 1pt solid $sea-green;
+}
+.bdr-green {
+	border: 1pt solid $green;
+}
+.bdr-mountain-meadow {
+	border: 1pt solid $mountain-meadow;
+}
+.bdr-shamrock {
+	border: 1pt solid $shamrock;
+}
+.bdr-jungle-green {
+	border: 1pt solid $jungle-green;
+}
+.bdr-caribbean-green {
+	border: 1pt solid $caribbean-green;
+}
+.bdr-tropical-rain-forest {
+	border: 1pt solid $tropical-rain-forest;
+}
+.bdr-pine-green {
+	border: 1pt solid $pine-green;
+}
+
+/////   Blues   /////
+
+.bdr-robin-egg-blue {
+	border: 1pt solid $robin-egg-blue;
+}
+.bdr- {
+	border: 1pt solid $aquamarine;
+}
+.bdr-turquoise-blue {
+	border: 1pt solid $turquoise-blue;
+}
+.bdr-sky-blue {
+	border: 1pt solid $sky-blue;
+}
+.bdr-outer-space {
+	border: 1pt solid $outer-space;
+}
+.bdr-blue-green {
+	border: 1pt solid $blue-green;
+}
+.bdr-pacific-blue {
+	border: 1pt solid $pacific-blue;
+}
+.bdr-cerulean {
+	border: 1pt solid $cerulean;
+}
+.bdr-cornflower {
+	border: 1pt solid $cornflower;
+}
+.bdr-midnight-blue {
+	border: 1pt solid $midnight-blue;
+}
+.bdr-navy-blue {
+	border: 1pt solid $navy-blue;
+}
+.bdr-denim {
+	border: 1pt solid $denim;
+}
+.bdr-blue{
+	border: 1pt solid $blue;
+}
+.bdr-periwinkle {
+	border: 1pt solid $periwinkle;
+}
+.bdr-cadet-blue {
+	border: 1pt solid $cadet-blue;
+}
+.bdr-indigo {
+	border: 1pt solid $indigo;
+}
+.bdr-wild-blue-yonder {
+	border: 1pt solid $wild-blue-yonder;
+}
+.bdr-manatee {
+	border: 1pt solid $manatee;
+}
+
+/////  Violets  /////
+
+.bdr-ultramarine-blue {
+	border: 1pt solid $ultramarine-blue;
+}
+.bdr-blue-violet {
+	border: 1pt solid $blue-violet;
+}
+.bdr-purple-heart {
+	border: 1pt solid $purple-heart;
+}
+.bdr-royal-purple {
+	border: 1pt solid $royal-purple;
+}
+.bdr-purple-mountain-majesty {
+	border: 1pt solid $purple-mountain-majesty;
+}
+.bdr-violet-purple {
+	border: 1pt solid $violet-purple;
+}
+.bdr-wisteria {
+	border: 1pt solid $wisteria;
+}
+.bdr-vivid-violet {
+	border: 1pt solid $vivid-violet;
+}
+.bdr-fuchsia {
+	border: 1pt solid $fuchsia;
+}
+.bdr-plum {
+	border: 1pt solid $plum;
+}
+
+/////   Pinks   /////
+
+.bdr-shocking-pink {
+	border: 1pt solid $shocking-pink;
+}
+.bdr-pink-flamingo {
+	border: 1pt solid $pink-flamingo;
+}
+.bdr-hot-magenta {
+	border: 1pt solid $hot-magenta;
+}
+.bdr-purple-pizzazz {
+	border: 1pt solid $purple-pizzazz;
+}
+.bdr-razzle-dazzle-rose {
+	border: 1pt solid $razzle-dazzle-rose;
+}
+.bdr-orchid {
+	border: 1pt solid $orchid;
+}
+.bdr-red-violet {
+	border: 1pt solid $red-violet;
+}
+.bdr-eggplant {
+	border: 1pt solid $eggplant;
+}
+.bdr-cerise {
+	border: 1pt solid $cerise;
+}
+.bdr-wild-strawberry {
+	border: 1pt solid $wild-strawberry;
+}
+.bdr-magenta {
+	border: 1pt solid $magenta;
+}
+.bdr-lavender {
+	border: 1pt solid $lavender;
+}
+.bdr-cotton-candy {
+	border: 1pt solid $cotton-candy;
+}
+.bdr-violet-red {
+	border: 1pt solid $violet-red;
+}
+.bdr-carnation-pink {
+	border: 1pt solid $carnation-pink;
+}
+.bdr-razzmatazz {
+	border: 1pt solid $razzmatazz;
+}
+.bdr-pig-pink {
+	border: 1pt solid $pig-pink;
+}
+.bdr-jazzberry-jam {
+	border: 1pt solid $jazzberry-jam;
+}
+.bdr-blush {
+	border: 1pt solid $blush;
+}
+.bdr-tickle-me-pink {
+	border: 1pt solid $tickle-me-pink;
+}
+.bdr-salmon {
+	border: 1pt solid $salmon;
+}
+.bdr-mauvelous {
+	border: 1pt solid $mauvelous;
+}
+
+/////  Browns   /////
+
+.bdr-mahogany {
+	border: 1pt solid $mahogany;
+}
+.bdr-melon {
+	border: 1pt solid $melon;
+}
+.bdr-pink-sherbert {
+	border: 1pt solid $pink-sherbert;
+}
+.bdr-burnt-sienna {
+	border: 1pt solid $burnt-sienna;
+}
+.bdr-brown {
+	border: 1pt solid $brown;
+}
+.bdr-sepia {
+	border: 1pt solid $sepia;
+}
+.bdr-fuzzy-wuzzy {
+	border: 1pt solid $fuzzy-wuzzy;
+}
+.bdr-chesnut {
+	border: 1pt solid $chesnut;
+}
+.bdr-beaver {
+	border: 1pt solid $beaver;
+}
+.bdr-tumbleweed {
+	border: 1pt solid $tumbleweed;
+}
+.bdr-raw-sienna {
+	border: 1pt solid $raw-sienna ;
+}
+.bdr-tan {
+	border: 1pt solid $tan;
+}
+.bdr-desert-sand {
+	border: 1pt solid $desert-sand;
+}
+.bdr-peach {
+	border: 1pt solid $peach;
+}
+.bdr-apricot {
+	border: 1pt solid $apricot;
+}
+.bdr-almond {
+	border: 1pt solid $almond;
+}
+.bdr-shadow {
+	border: 1pt solid $shadow;
+}
+
+///// Neutrals  /////
+
+.bdr-white {
+	border: 1pt solid $white;
+}
+.bdr-timberwolf {
+	border: 1pt solid $timberwolf;
+}
+.bdr-gray {
+	border: 1pt solid $gray;
+}
+.bdr-black {
+	border: 1pt solid $black;
+}
+
+///// Metallics /////
+
+.bdr-gold {
+	border: 1pt solid $gold;
+}
+.bdr-silver {
+	border: 1pt solid $silver;
+}
+.bdr-copper {
+	border: 1pt solid $copper;
+}
+.bdr-antique-brass {
+	border: 1pt solid $antique-brass;
+}

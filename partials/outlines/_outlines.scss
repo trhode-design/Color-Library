@@ -1,0 +1,397 @@
+/* SASS Document */
+
+
+//***** CONTAINERS *****//
+
+/* Import Color Library */ 
+@import '../../modules/colors';
+
+/////   Reds    /////
+
+.out-red {
+	outline-color: $red;
+}
+.out-radical-red {
+	outline-color: $radical-red;
+}
+.out-maroon {
+	outline-color: $maroon;
+}
+.out-wild-watermelon {
+	outline-color: $wild-watermelon;
+}
+.out-scarlet {
+	outline-color: $scarlet;
+}
+.out-brick-red {
+	outline-color: $brick-red;
+}
+
+/////  Oranges  /////
+
+.out-sunset-orange {
+	outline-color: $sunset-orange;
+}
+.out-bittersweet {
+	outline-color: $bittersweet;
+}
+.out-outrageous-orange {
+	outline-color: $outrageous-orange;
+}
+.out-vivid-tangerine {
+	outline-color: $vivid-tangerine;
+}
+.out-burnt-orange {
+	outline-color: $burnt-orange;
+}
+.out-red-orange {
+	outline-color: $red-orange;
+}
+.out-orange {
+	outline-color: $orange;
+}
+.out-mango-tango {
+	outline-color: $mango-tango;
+}
+.out-atomic-tangerine {
+	outline-color: $atomic-tangerine;
+}
+.out-macaroni-cheese {
+	outline-color: $macaroni-cheese;
+}
+.out-neon-carrot {
+	outline-color: $neon-carrot;
+}
+
+/////  Yellows  /////
+
+.out-yellow-orange {
+	outline-color: $yellow-orange;
+}
+.out-banana-mania {
+	outline-color: $banana-mania;
+}
+.out-sunglow {
+	outline-color: $sunglow;
+}
+.out-goldenrod {
+	outline-color: $goldenrod;
+}
+.out-dandelion {
+	outline-color: $dandelion;
+}
+.out-yellow {
+	outline-color: $yellow;
+}
+.out-laser-lemon {
+	outline-color: $laser-lemon;
+}
+.out-unmellow-yellow {
+	outline-color: $unmellow-yellow;
+}
+.out-canary {
+	outline-color: $canary;
+}
+
+/////  Greens   /////
+
+.out-green-yellow {
+	outline-color: $green-yellow;
+}
+.out-spring-green {
+	outline-color: $spring-green;
+}
+.out-olive-green {
+	outline-color: $olive-green;
+}
+.out-yellow-green {
+	outline-color: $yellow-green;
+}
+.out-inchworm {
+	outline-color: $inchworm;
+}
+.out-asparagus {
+	outline-color: $asparagus;
+}
+.out-granny-smith-apple {
+	outline-color: $granny-smith-apple;
+}
+.out-electric-lime {
+	outline-color: $electric-lime;
+}
+.out-screamin-green {
+	outline-color: $screamin-green;
+}
+.out-fern {
+	outline-color: $fern;
+}
+.out-forest-green {
+	outline-color: $forest-green;
+}
+.out-sea-green {
+	outline-color: $sea-green;
+}
+.out-green {
+	outline-color: $green;
+}
+.out-mountain-meadow {
+	outline-color: $mountain-meadow;
+}
+.out-shamrock {
+	outline-color: $shamrock;
+}
+.out-jungle-green {
+	outline-color: $jungle-green;
+}
+.out-caribbean-green {
+	outline-color: $caribbean-green;
+}
+.out-tropical-rain-forest {
+	outline-color: $tropical-rain-forest;
+}
+.out-pine-green {
+	outline-color: $pine-green;
+}
+
+/////   Blues   /////
+
+.out-robin-egg-blue {
+	outline-color: $robin-egg-blue;
+}
+.out- {
+	outline-color: $aquamarine;
+}
+.out-turquoise-blue {
+	outline-color: $turquoise-blue;
+}
+.out-sky-blue {
+	outline-color: $sky-blue;
+}
+.out-outer-space {
+	outline-color: $outer-space;
+}
+.out-blue-green {
+	outline-color: $blue-green;
+}
+.out-pacific-blue {
+	outline-color: $pacific-blue;
+}
+.out-cerulean {
+	outline-color: $cerulean;
+}
+.out-cornflower {
+	outline-color: $cornflower;
+}
+.out-midnight-blue {
+	outline-color: $midnight-blue;
+}
+.out-navy-blue {
+	outline-color: $navy-blue;
+}
+.out-denim {
+	outline-color: $denim;
+}
+.out-blue{
+	outline-color: $blue;
+}
+.out-periwinkle {
+	outline-color: $periwinkle;
+}
+.out-cadet-blue {
+	outline-color: $cadet-blue;
+}
+.out-indigo {
+	outline-color: $indigo;
+}
+.out-wild-blue-yonder {
+	outline-color: $wild-blue-yonder;
+}
+.out-manatee {
+	outline-color: $manatee;
+}
+
+/////  Violets  /////
+
+.out-ultramarine-blue {
+	outline-color: $ultramarine-blue;
+}
+.out-blue-violet {
+	outline-color: $blue-violet;
+}
+.out-purple-heart {
+	outline-color: $purple-heart;
+}
+.out-royal-purple {
+	outline-color: $royal-purple;
+}
+.out-purple-mountain-majesty {
+	outline-color: $purple-mountain-majesty;
+}
+.out-violet-purple {
+	outline-color: $violet-purple;
+}
+.out-wisteria {
+	outline-color: $wisteria;
+}
+.out-vivid-violet {
+	outline-color: $vivid-violet;
+}
+.out-fuchsia {
+	outline-color: $fuchsia;
+}
+.out-plum {
+	outline-color: $plum;
+}
+
+/////   Pinks   /////
+
+.out-shocking-pink {
+	outline-color: $shocking-pink;
+}
+.out-pink-flamingo {
+	outline-color: $pink-flamingo;
+}
+.out-hot-magenta {
+	outline-color: $hot-magenta;
+}
+.out-purple-pizzazz {
+	outline-color: $purple-pizzazz;
+}
+.out-razzle-dazzle-rose {
+	outline-color: $razzle-dazzle-rose;
+}
+.out-orchid {
+	outline-color: $orchid;
+}
+.out-red-violet {
+	outline-color: $red-violet;
+}
+.out-eggplant {
+	outline-color: $eggplant;
+}
+.out-cerise {
+	outline-color: $cerise;
+}
+.out-wild-strawberry {
+	outline-color: $wild-strawberry;
+}
+.out-magenta {
+	outline-color: $magenta;
+}
+.out-lavender {
+	outline-color: $lavender;
+}
+.out-cotton-candy {
+	outline-color: $cotton-candy;
+}
+.out-violet-red {
+	outline-color: $violet-red;
+}
+.out-carnation-pink {
+	outline-color: $carnation-pink;
+}
+.out-razzmatazz {
+	outline-color: $razzmatazz;
+}
+.out-pig-pink {
+	outline-color: $pig-pink;
+}
+.out-jazzberry-jam {
+	outline-color: $jazzberry-jam;
+}
+.out-blush {
+	outline-color: $blush;
+}
+.out-tickle-me-pink {
+	outline-color: $tickle-me-pink;
+}
+.out-salmon {
+	outline-color: $salmon;
+}
+.out-mauvelous {
+	outline-color: $mauvelous;
+}
+
+/////  Browns   /////
+
+.out-mahogany {
+	outline-color: $mahogany;
+}
+.out-melon {
+	outline-color: $melon;
+}
+.out-pink-sherbert {
+	outline-color: $pink-sherbert;
+}
+.out-burnt-sienna {
+	outline-color: $burnt-sienna;
+}
+.out-brown {
+	outline-color: $brown;
+}
+.out-sepia {
+	outline-color: $sepia;
+}
+.out-fuzzy-wuzzy {
+	outline-color: $fuzzy-wuzzy;
+}
+.out-chesnut {
+	outline-color: $chesnut;
+}
+.out-beaver {
+	outline-color: $beaver;
+}
+.out-tumbleweed {
+	outline-color: $tumbleweed;
+}
+.out-raw-sienna {
+	outline-color: $raw-sienna ;
+}
+.out-tan {
+	outline-color: $tan;
+}
+.out-desert-sand {
+	outline-color: $desert-sand;
+}
+.out-peach {
+	outline-color: $peach;
+}
+.out-apricot {
+	outline-color: $apricot;
+}
+.out-almond {
+	outline-color: $almond;
+}
+.out-shadow {
+	outline-color: $shadow;
+}
+
+///// Neutrals  /////
+
+.out-white {
+	outline-color: $white;
+}
+.out-timberwolf {
+	outline-color: $timberwolf;
+}
+.out-gray {
+	outline-color: $gray;
+}
+.out-black {
+	outline-color: $black;
+}
+
+///// Metallics /////
+
+.out-gold {
+	outline-color: $gold;
+}
+.out-silver {
+	outline-color: $silver;
+}
+.out-copper {
+	outline-color: $copper;
+}
+.out-antique-brass {
+	outline-color: $antique-brass;
+}

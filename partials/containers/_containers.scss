@@ -1,0 +1,397 @@
+/* SASS Document */
+
+
+//***** CONTAINERS *****//
+
+/* Import Color Library */ 
+@import '../../modules/colors';
+
+/////   Reds    /////
+
+.cnt-red {
+	background-color: $red;
+}
+.cnt-radical-red {
+	background-color: $radical-red;
+}
+.cnt-maroon {
+	background-color: $maroon;
+}
+.cnt-wild-watermelon {
+	background-color: $wild-watermelon;
+}
+.cnt-scarlet {
+	background-color: $scarlet;
+}
+.cnt-brick-red {
+	background-color: $brick-red;
+}
+
+/////  Oranges  /////
+
+.cnt-sunset-orange {
+	background-color: $sunset-orange;
+}
+.cnt-bittersweet {
+	background-color: $bittersweet;
+}
+.cnt-outrageous-orange {
+	background-color: $outrageous-orange;
+}
+.cnt-vivid-tangerine {
+	background-color: $vivid-tangerine;
+}
+.cnt-burnt-orange {
+	background-color: $burnt-orange;
+}
+.cnt-red-orange {
+	background-color: $red-orange;
+}
+.cnt-orange {
+	background-color: $orange;
+}
+.cnt-mango-tango {
+	background-color: $mango-tango;
+}
+.cnt-atomic-tangerine {
+	background-color: $atomic-tangerine;
+}
+.cnt-macaroni-cheese {
+	background-color: $macaroni-cheese;
+}
+.cnt-neon-carrot {
+	background-color: $neon-carrot;
+}
+
+/////  Yellows  /////
+
+.cnt-yellow-orange {
+	background-color: $yellow-orange;
+}
+.cnt-banana-mania {
+	background-color: $banana-mania;
+}
+.cnt-sunglow {
+	background-color: $sunglow;
+}
+.cnt-goldenrod {
+	background-color: $goldenrod;
+}
+.cnt-dandelion {
+	background-color: $dandelion;
+}
+.cnt-yellow {
+	background-color: $yellow;
+}
+.cnt-laser-lemon {
+	background-color: $laser-lemon;
+}
+.cnt-unmellow-yellow {
+	background-color: $unmellow-yellow;
+}
+.cnt-canary {
+	background-color: $canary;
+}
+
+/////  Greens   /////
+
+.cnt-green-yellow {
+	background-color: $green-yellow;
+}
+.cnt-spring-green {
+	background-color: $spring-green;
+}
+.cnt-olive-green {
+	background-color: $olive-green;
+}
+.cnt-yellow-green {
+	background-color: $yellow-green;
+}
+.cnt-inchworm {
+	background-color: $inchworm;
+}
+.cnt-asparagus {
+	background-color: $asparagus;
+}
+.cnt-granny-smith-apple {
+	background-color: $granny-smith-apple;
+}
+.cnt-electric-lime {
+	background-color: $electric-lime;
+}
+.cnt-screamin-green {
+	background-color: $screamin-green;
+}
+.cnt-fern {
+	background-color: $fern;
+}
+.cnt-forest-green {
+	background-color: $forest-green;
+}
+.cnt-sea-green {
+	background-color: $sea-green;
+}
+.cnt-green {
+	background-color: $green;
+}
+.cnt-mountain-meadow {
+	background-color: $mountain-meadow;
+}
+.cnt-shamrock {
+	background-color: $shamrock;
+}
+.cnt-jungle-green {
+	background-color: $jungle-green;
+}
+.cnt-caribbean-green {
+	background-color: $caribbean-green;
+}
+.cnt-tropical-rain-forest {
+	background-color: $tropical-rain-forest;
+}
+.cnt-pine-green {
+	background-color: $pine-green;
+}
+
+/////   Blues   /////
+
+.cnt-robin-egg-blue {
+	background-color: $robin-egg-blue;
+}
+.cnt-aquamarine {
+	background-color: $aquamarine;
+}
+.cnt-turquoise-blue {
+	background-color: $turquoise-blue;
+}
+.cnt-sky-blue {
+	background-color: $sky-blue;
+}
+.cnt-outer-space {
+	background-color: $outer-space;
+}
+.cnt-blue-green {
+	background-color: $blue-green;
+}
+.cnt-pacific-blue {
+	background-color: $pacific-blue;
+}
+.cnt-cerulean {
+	background-color: $cerulean;
+}
+.cnt-cornflower {
+	background-color: $cornflower;
+}
+.cnt-midnight-blue {
+	background-color: $midnight-blue;
+}
+.cnt-navy-blue {
+	background-color: $navy-blue;
+}
+.cnt-denim {
+	background-color: $denim;
+}
+.cnt-blue{
+	background-color: $blue;
+}
+.cnt-periwinkle {
+	background-color: $periwinkle;
+}
+.cnt-cadet-blue {
+	background-color: $cadet-blue;
+}
+.cnt-indigo {
+	background-color: $indigo;
+}
+.cnt-wild-blue-yonder {
+	background-color: $wild-blue-yonder;
+}
+.cnt-manatee {
+	background-color: $manatee;
+}
+
+/////  Violets  /////
+
+.cnt-ultramarine-blue {
+	background-color: $ultramarine-blue;
+}
+.cnt-blue-violet {
+	background-color: $blue-violet;
+}
+.cnt-purple-heart {
+	background-color: $purple-heart;
+}
+.cnt-royal-purple {
+	background-color: $royal-purple;
+}
+.cnt-purple-mountain-majesty {
+	background-color: $purple-mountain-majesty;
+}
+.cnt-violet-purple {
+	background-color: $violet-purple;
+}
+.cnt-wisteria {
+	background-color: $wisteria;
+}
+.cnt-vivid-violet {
+	background-color: $vivid-violet;
+}
+.cnt-fuchsia {
+	background-color: $fuchsia;
+}
+.cnt-plum {
+	background-color: $plum;
+}
+
+/////   Pinks   /////
+
+.cnt-shocking-pink {
+	background-color: $shocking-pink;
+}
+.cnt-pink-flamingo {
+	background-color: $pink-flamingo;
+}
+.cnt-hot-magenta {
+	background-color: $hot-magenta;
+}
+.cnt-purple-pizzazz {
+	background-color: $purple-pizzazz;
+}
+.cnt-razzle-dazzle-rose {
+	background-color: $razzle-dazzle-rose;
+}
+.cnt-orchid {
+	background-color: $orchid;
+}
+.cnt-red-violet {
+	background-color: $red-violet;
+}
+.cnt-eggplant {
+	background-color: $eggplant;
+}
+.cnt-cerise {
+	background-color: $cerise;
+}
+.cnt-wild-strawberry {
+	background-color: $wild-strawberry;
+}
+.cnt-magenta {
+	background-color: $magenta;
+}
+.cnt-lavender {
+	background-color: $lavender;
+}
+.cnt-cotton-candy {
+	background-color: $cotton-candy;
+}
+.cnt-violet-red {
+	background-color: $violet-red;
+}
+.cnt-carnation-pink {
+	background-color: $carnation-pink;
+}
+.cnt-razzmatazz {
+	background-color: $razzmatazz;
+}
+.cnt-pig-pink {
+	background-color: $pig-pink;
+}
+.cnt-jazzberry-jam {
+	background-color: $jazzberry-jam;
+}
+.cnt-blush {
+	background-color: $blush;
+}
+.cnt-tickle-me-pink {
+	background-color: $tickle-me-pink;
+}
+.cnt-salmon {
+	background-color: $salmon;
+}
+.cnt-mauvelous {
+	background-color: $mauvelous;
+}
+
+/////  Browns   /////
+
+.cnt-mahogany {
+	background-color: $mahogany;
+}
+.cnt-melon {
+	background-color: $melon;
+}
+.cnt-pink-sherbert {
+	background-color: $pink-sherbert;
+}
+.cnt-burnt-sienna {
+	background-color: $burnt-sienna;
+}
+.cnt-brown {
+	background-color: $brown;
+}
+.cnt-sepia {
+	background-color: $sepia;
+}
+.cnt-fuzzy-wuzzy {
+	background-color: $fuzzy-wuzzy;
+}
+.cnt-chesnut {
+	background-color: $chesnut;
+}
+.cnt-beaver {
+	background-color: $beaver;
+}
+.cnt-tumbleweed {
+	background-color: $tumbleweed;
+}
+.cnt-raw-sienna {
+	background-color: $raw-sienna ;
+}
+.cnt-tan {
+	background-color: $tan;
+}
+.cnt-desert-sand {
+	background-color: $desert-sand;
+}
+.cnt-peach {
+	background-color: $peach;
+}
+.cnt-apricot {
+	background-color: $apricot;
+}
+.cnt-almond {
+	background-color: $almond;
+}
+.cnt-shadow {
+	background-color: $shadow;
+}
+
+///// Neutrals  /////
+
+.cnt-white {
+	background-color: $white;
+}
+.cnt-timberwolf {
+	background-color: $timberwolf;
+}
+.cnt-gray {
+	background-color: $gray;
+}
+.cnt-black {
+	background-color: $black;
+}
+
+///// Metallics /////
+
+.cnt-gold {
+	background-color: $gold;
+}
+.cnt-silver {
+	background-color: $silver;
+}
+.cnt-copper {
+	background-color: $copper;
+}
+.cnt-antique-brass {
+	background-color: $antique-brass;
+}
